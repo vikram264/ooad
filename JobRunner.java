@@ -1,4 +1,4 @@
-package com.example.ooad.jobscheduling;
+package ooad;
 
 import lombok.Getter;
 
